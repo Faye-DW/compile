@@ -1,0 +1,158 @@
+Making(Updating) irsim
+make: 进入目录“/home/s/compile/test/lab4/irsim”
+make: “build/irsim”已是最新。
+make: 离开目录“/home/s/compile/test/lab4/irsim”
+sample test [naive.cmm] matched
+sample test [sample1.cmm] matched
+sample test [sample2.cmm] matched
+normal1 test [2018-A-1.cmm] matched
+normal1 test [2018-A-2.cmm] matched
+normal1 test [2018-A-3.cmm] matched
+normal1 test [2018-A-4.cmm] matched
+normal1 test [2018-A-5.cmm] matched
+normal1 test [2018-B-1.cmm] matched
+normal1 test [2018-B-2.cmm] matched
+normal1 test [2018-B-3.cmm] matched
+normal1 test [2018-C-1.cmm] matched
+normal1 test [2018-C-2.cmm] matched
+normal1 test [2018-D-1.cmm] matched
+normal2 test [2020-A_1.cmm] matched
+normal2 test [2020-A_2.cmm] matched
+normal2 test [2020-A_3.cmm] matched
+normal2 test [2020-A_4.cmm] matched
+normal2 test [2020-A_5.cmm] matched
+normal2 test [2020-B_1.cmm] matched
+normal2 test [2020-B_2.cmm] matched
+normal2 test [2020-B_3.cmm] matched
+normal2 test [2020-C_1.cmm] matched
+normal2 test [2020-C_2.cmm] matched
+normal2 test [2020-D_1.cmm] matched
+normal3 test [A-1.cmm] matched
+normal3 test [A-2.cmm] matched
+normal3 test [A-3.cmm] matched
+normal3 test [A-4.cmm] matched
+[1m[91mWrong on input [0, 0, 0, 0]
+Output mismatch!(you output less than supposed)[0m[0m
+[0;31m[1m normal3 test [A-5.cmm] mismatch or TLE [0m(B[m
+normal3 test [B-1.cmm] matched
+normal3 test [B-2.cmm] matched
+normal3 test [B-3.cmm] matched
+normal3 test [C-1.cmm] matched
+[1m[91mWrong on input [0, 1]
+Output mismatch!(you output less than supposed)[0m[0m
+[0;31m[1m normal3 test [C-2.cmm] mismatch or TLE [0m(B[m
+normal3 test [D-1.cmm] matched
+normal4 test [A-1.cmm] matched
+normal4 test [A-2.cmm] matched
+[1m[91mWrong on input [-10, -100, 12, 33, 5]
+Output mismatch! expected -10, found 0 at line 7[0m[0m
+[0;31m[1m normal4 test [A-3.cmm] mismatch or TLE [0m(B[m
+normal4 test [A-4.cmm] matched
+normal4 test [A-5.cmm] matched
+normal4 test [B-1.cmm] matched
+normal4 test [B-2.cmm] matched
+normal4 test [B-3.cmm] matched
+normal4 test [C-1.cmm] matched
+normal4 test [C-2.cmm] matched
+handmade test [m0.cmm] matched
+handmade test [m1.cmm] matched
+handmade test [m2.cmm] matched
+handmade test [yzy10.cmm] matched
+handmade test [yzy12.cmm] matched
+handmade test [yzy13.cmm] matched
+handmade test [yzy15.cmm] matched
+handmade test [yzy16.cmm] matched
+handmade test [yzy17.cmm] matched
+handmade test [yzy19.cmm] matched
+handmade test [yzy1.cmm] matched
+handmade test [yzy3.cmm] matched
+handmade test [yzy4.cmm] matched
+handmade test [yzy5.cmm] matched
+handmade test [yzy6.cmm] matched
+handmade test [yzy7.cmm] matched
+handmade test [yzy8.cmm] matched
+handmade test [yzy9.cmm] matched
+handmade test [ZZ0.cmm] matched
+handmade test [zzw-2.cmm] matched
+handmade test [zzw-3.cmm] matched
+extend1 test [2018-E1-1.cmm] matched
+[1m[91mWrong on input []
+Output mismatch! expected 569300, found 163212 at line 0[0m[0m
+[0;31m[1m extend1 test [2018-E1-2.cmm] mismatch or TLE [0m(B[m
+extend1 test [2018-E1-3.cmm] matched
+extend1 test [2023-E1-1.cmm] matched
+[1m[91mWrong on input []
+Output mismatch! expected 5885, found 385 at line 0[0m[0m
+[0;31m[1m extend1 test [2023-E1-2.cmm] mismatch or TLE [0m(B[m
+[1m[91mWrong on input []
+Output mismatch! expected 200, found 0 at line 0[0m[0m
+[0;31m[1m extend1 test [2023-E1-3.cmm] mismatch or TLE [0m(B[m
+extend1 test [E1-1.cmm] matched
+extend1 test [E1_1.cmm] matched
+[1m[91mWrong on input []
+Output mismatch! expected 22, found 90 at line 0[0m[0m
+[0;31m[1m extend1 test [E1-2.cmm] mismatch or TLE [0m(B[m
+[1m[91mWrong on input []
+Output mismatch! expected 1648, found 1173600 at line 0[0m[0m
+[0;31m[1m extend1 test [E1_2.cmm] mismatch or TLE [0m(B[m
+[1m[91mWrong on input []
+Output mismatch! expected 10, found 90 at line 0[0m[0m
+[0;31m[1m extend1 test [E1-3.cmm] mismatch or TLE [0m(B[m
+[1m[91mWrong on input []
+Output mismatch! expected 3875, found 0 at line 0[0m[0m
+[0;31m[1m extend1 test [E1_3.cmm] mismatch or TLE [0m(B[m
+[1m[91mWrong on input []
+Output mismatch!(you output less than supposed)[0m[0m
+[0;31m[1m extend1 test [op-sample1.cmm] mismatch or TLE [0m(B[m
+extend1 test [yzy14.cmm] matched
+extend1 test [yzy2.cmm] matched
+[1m[91mWrong on input []
+Output mismatch! expected 2760, found -48668214 at line 0[0m[0m
+[0;31m[1m extend2 test [2018-E2-1.cmm] mismatch or TLE [0m(B[m
+extend2 test [2018-E2-2.cmm] matched
+extend2 test [2018-E2-3.cmm] matched
+extend2 test [2023-E2-1.cmm] matched
+[1m[91mWrong on input []
+Output mismatch! expected 40, found 35 at line 0[0m[0m
+[0;31m[1m extend2 test [2023-E2-2.cmm] mismatch or TLE [0m(B[m
+extend2 test [2023-E2-3.cmm] matched
+extend2 test [E2-1.cmm] matched
+extend2 test [E2_1.cmm] matched
+[1m[91mWrong on input []
+Output mismatch! expected 882, found 0 at line 0[0m[0m
+[0;31m[1m extend2 test [E2-2.cmm] mismatch or TLE [0m(B[m
+extend2 test [E2_2.cmm] matched
+extend2 test [E2-3.cmm] matched
+extend2 test [E2_3.cmm] matched
+[1m[91mWrong on input []
+Output mismatch!(you output less than supposed)[0m[0m
+[0;31m[1m extend2 test [op-sample2.cmm] mismatch or TLE [0m(B[m
+extend2 test [yzy11.cmm] matched
+[1m[91mWrong on input []
+Output mismatch! expected 1, found 0 at line 1[0m[0m
+[0;31m[1m extend2 test [yzy18.cmm] mismatch or TLE [0m(B[m
+extend2 test [zt_knapsack.cmm] matched
+extend2 test [zt_quicksort.cmm] matched
+extend2 test [zty-2.cmm] matched
+extend2 test [zty-3.cmm] matched
+extend2 test [zty-4.cmm] matched
+[1m[91mWrong on input []
+Output mismatch! expected 1, found 0 at line 2[0m[0m
+[0;31m[1m extendboth test [kita1.cmm] mismatch or TLE [0m(B[m
+[1m[91mWrong on input []
+Output mismatch! expected 114, found 0 at line 0[0m[0m
+[0;31m[1m extendboth test [kita2.cmm] mismatch or TLE [0m(B[m
+[1m[91mWrong on input []
+Output mismatch!(you output less than supposed)[0m[0m
+[0;31m[1m extendboth test [zt_comprehensive.cmm] mismatch or TLE [0m(B[m
+extendboth test [zty-1.cmm] matched
+[1m[91mWrong on input []
+Output mismatch! expected 9, found 6 at line 0[0m[0m
+[0;31m[1m extendboth test [zzw-1.cmm] mismatch or TLE [0m(B[m
+[1m[91mWrong on input [4074]
+Output mismatch! expected 990214329, found 205783953 at line 0[0m[0m
+[0;31m[1m extendprf test [ZM.cmm] mismatch or TLE [0m(B[m
+[1m[91mWrong on input [4074]
+Output mismatch! expected 886479316, found 889721929 at line 10[0m[0m
+[0;31m[1m extendprf test [ZMpro.cmm] mismatch or TLE [0m(B[m
+PASSED 87/109

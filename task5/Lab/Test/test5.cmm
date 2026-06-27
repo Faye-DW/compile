@@ -1,0 +1,12 @@
+int x;
+
+int func(int a) {
+	return a + 1;
+}
+
+int main(){
+	int c;
+	x = 10;
+	c = func(x);
+	return 0;
+}
